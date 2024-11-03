@@ -1,0 +1,7 @@
+---
+Language: Cpp           # Language. Possible values: (None, Cpp, CSharp, Java, JavaScript, Json, ...).
+BasedOnStyle: LLVM      # The style used for all options not specifically set in the configuration. Possible values: (LLVM, Google, Chromium, Mozilla, WebKit, Microsoft, GNU).
+
+TabWidth: 4             # The number of columns used for tab stops.
+UseTab: Never           # Never use tab.
+IndentWidth: 4          # The number of columns to use for indentation of preprocessor statements. When set to -1 (default) IndentWidth is used also for preprocessor statements.
