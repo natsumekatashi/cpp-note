@@ -79,9 +79,6 @@ https://aka.ms/wslstoref
 - [清华源官方教程](https://mirrors.tuna.tsinghua.edu.cn/help/ubuntu/)
 - 更新软件包指令
 ```bash
-# 更新软件包索引
-katashi@natsume:~$ sudo apt-get update
-
 # 更新软件包列表
 katashi@natsume:~$ sudo apt update
 
@@ -97,6 +94,3 @@ katashi@natsume:~$ sudo apt autoremove
 # 清理本地存储不再需要的包文件
 katashi@natsume:~$ sudo apt clean
 ```
-
-### (3.2) Docker
-- [清华源官方教程](https://mirrors.tuna.tsinghua.edu.cn/help/docker-ce/)
